@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://brittanychiang.com/diluccadev/sitemap-index.xml
-Host: https://brittanychiang.com
+Sitemap: https://dilucca.dev/diluccadev/sitemap-index.xml
+Host: https://dilucca.dev
