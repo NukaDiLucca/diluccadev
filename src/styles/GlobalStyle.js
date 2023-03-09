@@ -191,10 +191,10 @@ const GlobalStyle = createGlobalStyle`
     &:before {
       position: relative;
       bottom: 4px;
-      counter-increment: section;
+      counter-increment: section 1;
       content: '0' counter(section) '.';
       margin-right: 10px;
-      color: var(--green);
+      color: var(--metaBlue);
       font-family: var(--font-mono);
       font-size: clamp(var(--fz-md), 3vw, var(--fz-xl));
       font-weight: 400;
@@ -225,6 +225,11 @@ const GlobalStyle = createGlobalStyle`
         margin-left: 10px;
       }
     }
+  }
+
+  .pixel{
+    color: var(--metaBlue);
+    /* Add any other font properties here */
   }
 
   img,

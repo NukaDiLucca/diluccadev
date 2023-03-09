@@ -14,6 +14,9 @@ import CalibreMediumItalicWoff2 from '@fonts/Calibre/Calibre-MediumItalic.woff2'
 import CalibreSemiboldItalicWoff from '@fonts/Calibre/Calibre-SemiboldItalic.woff';
 import CalibreSemiboldItalicWoff2 from '@fonts/Calibre/Calibre-SemiboldItalic.woff2';
 
+import GilroyExtraBold from '@fonts/Gilroy/Gilroy-ExtraBold.otf';
+import GilroyLight from '@fonts/Gilroy/Gilroy-Light.otf';
+
 import SFMonoRegularWoff from '@fonts/SFMono/SFMono-Regular.woff';
 import SFMonoRegularWoff2 from '@fonts/SFMono/SFMono-Regular.woff2';
 import SFMonoSemiboldWoff from '@fonts/SFMono/SFMono-Semibold.woff';
@@ -23,6 +26,9 @@ import SFMonoRegularItalicWoff from '@fonts/SFMono/SFMono-RegularItalic.woff';
 import SFMonoRegularItalicWoff2 from '@fonts/SFMono/SFMono-RegularItalic.woff2';
 import SFMonoSemiboldItalicWoff from '@fonts/SFMono/SFMono-SemiboldItalic.woff';
 import SFMonoSemiboldItalicWoff2 from '@fonts/SFMono/SFMono-SemiboldItalic.woff2';
+
+import SilkscreenNormal from '@fonts/Silkscreen/SYNNova-Regular.otf';
+import SilkscreenBold from '@fonts/Silkscreen/SYNNova-Bold.otf';
 
 const calibreNormalWeights = {
   400: [CalibreRegularWoff, CalibreRegularWoff2],
@@ -36,6 +42,11 @@ const calibreItalicWeights = {
   600: [CalibreSemiboldItalicWoff, CalibreSemiboldItalicWoff2],
 };
 
+const gilroyNormalWeights = {
+  400: [GilroyLight, GilroyLight],
+  600: [GilroyExtraBold, GilroyExtraBold],
+};
+
 const sfMonoNormalWeights = {
   400: [SFMonoRegularWoff, SFMonoRegularWoff2],
   600: [SFMonoSemiboldWoff, SFMonoSemiboldWoff2],
@@ -46,16 +57,31 @@ const sfMonoItalicWeights = {
   600: [SFMonoSemiboldItalicWoff, SFMonoSemiboldItalicWoff2],
 };
 
+const silkscreenNormalWeights = {
+  400: [SilkscreenNormal],
+  600: [SilkscreenBold],
+};
+
 const calibre = {
   name: 'Calibre',
   normal: calibreNormalWeights,
   italic: calibreItalicWeights,
 };
 
+const gilroy = {
+  name: 'Gilroy',
+  normal: gilroyNormalWeights,
+};
+
 const sfMono = {
   name: 'SF Mono',
   normal: sfMonoNormalWeights,
   italic: sfMonoItalicWeights,
+};
+
+const silkscreen = {
+  name: 'Silkscreen',
+  normal: silkscreenNormalWeights,
 };
 
 const createFontFaces = (family, style = 'normal') => {
@@ -83,11 +109,15 @@ const createFontFaces = (family, style = 'normal') => {
 const calibreNormal = createFontFaces(calibre);
 const calibreItalic = createFontFaces(calibre, 'italic');
 
+const gilroyNormal = createFontFaces(gilroy);
+
 const sfMonoNormal = createFontFaces(sfMono);
 const sfMonoItalic = createFontFaces(sfMono, 'italic');
 
+const silkscreenNormal = createFontFaces(silkscreen);
+
 const Fonts = css`
-  ${calibreNormal + calibreItalic + sfMonoNormal + sfMonoItalic}
+  ${calibreNormal + calibreItalic + gilroyNormal + sfMonoNormal + sfMonoItalic + silkscreenNormal}
 `;
 
 export default Fonts;
