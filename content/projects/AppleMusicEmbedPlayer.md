@@ -1,6 +1,7 @@
 ---
 date: '2017-12-01'
 title: 'Apple Music Embeddable Web Player Widget'
+image: 'https://s3.amazonaws.com/s3images.coroflot.com/user_files/individual_files/large_906045_oanfkk4dygv7iz24t0w2igmfx.png?AWSAccessKeyId=086M18W1MHNJR6M3X402&Expires=1678394271&Signature=JkYjSQr%2F7IGvuoElPdv1a4pUNLQ%3D'
 github: ''
 external: 'https://tools.applemusic.com/en-us'
 tech:
