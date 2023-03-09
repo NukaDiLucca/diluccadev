@@ -139,7 +139,7 @@ const About = () => {
             <p>
               My passion for game developement started in 2000 with the original StarCraft Campaign
               Editor on into my time at Drexel University where I took on a BA in Computer Science
-              with a concentration in Game Programming and a focus on Artificial Inteligence.
+              with a concentration in Game Programming and a focus on Artificial Inteligence..
             </p>
 
             <p>
