@@ -1,6 +1,6 @@
 ---
 date: '2016-03-08'
-title: 'Studio Developer'
+title: 'Project Lead'
 company: 'WetWare Games'
 location: 'Drexel University'
 range: 'March 2016 - August 2017'
