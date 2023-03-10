@@ -106,6 +106,14 @@ const StyledProject = styled.li`
           }
         }
 
+        &.image {
+          svg {
+            width: 26px;
+            height: 22px;
+            margin-top: -4px;
+          }
+        }
+
         svg {
           width: 20px;
           height: 20px;
@@ -180,6 +188,7 @@ const Projects = () => {
             frontmatter {
               title
               tech
+              image
               github
               external
             }
@@ -213,7 +222,7 @@ const Projects = () => {
 
   const projectInner = node => {
     const { frontmatter, html } = node;
-    const { github, external, title, tech } = frontmatter;
+    const { image, github, external, title, tech } = frontmatter;
 
     return (
       <div className="project-inner">
@@ -223,6 +232,17 @@ const Projects = () => {
               <Icon name="Folder" />
             </div>
             <div className="project-links">
+              {image && (
+                <a
+                  href={image}
+                  aria-label="Image Link"
+                  className="image"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <Icon name="Image" />
+                </a>
+              )}
               {github && (
                 <a href={github} aria-label="GitHub Link" target="_blank" rel="noreferrer">
                   <Icon name="GitHub" />
@@ -234,7 +254,8 @@ const Projects = () => {
                   aria-label="External Link"
                   className="external"
                   target="_blank"
-                  rel="noreferrer">
+                  rel="noreferrer"
+                >
                   <Icon name="External" />
                 </a>
               )}
@@ -287,13 +308,15 @@ const Projects = () => {
                   key={i}
                   classNames="fadeup"
                   timeout={i >= GRID_LIMIT ? (i - GRID_LIMIT) * 300 : 300}
-                  exit={false}>
+                  exit={false}
+                >
                   <StyledProject
                     key={i}
                     ref={el => (revealProjects.current[i] = el)}
                     style={{
                       transitionDelay: `${i >= GRID_LIMIT ? (i - GRID_LIMIT) * 100 : 0}ms`,
-                    }}>
+                    }}
+                  >
                     {projectInner(node)}
                   </StyledProject>
                 </CSSTransition>

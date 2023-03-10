@@ -228,6 +228,14 @@ const StyledProject = styled.li`
         }
       }
 
+      &.image {
+        svg {
+          width: 22px;
+          height: 22px;
+          margin-top: -4px;
+        }
+      }
+
       svg {
         width: 20px;
         height: 20px;
@@ -348,7 +356,7 @@ const Featured = () => {
   return (
     <section id="projects">
       <h2 className="numbered-heading" ref={revealTitle}>
-        Some Things I’ve Built
+        Some Things I’ve Built Recently
       </h2>
 
       <StyledProjectsGrid>

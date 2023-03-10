@@ -37,7 +37,7 @@ const StyledContactSection = styled.section`
 
   .email-link {
     ${({ theme }) => theme.mixins.bigButton};
-    margin-top: 50px;
+    margin-top: 25px;
   }
 `;
 
@@ -59,9 +59,10 @@ const Contact = () => {
 
       <h2 className="title">Get In Touch</h2>
 
+      <p>I am currently looking for work in the games industry!</p>
       <p>
-        Although I’m not currently looking for any new opportunities, my inbox is always open.
-        Whether you have a question or just want to say hi, I’ll try my best to get back to you!
+        If you are interested in talking with me in any capacity please feel free to drop me a
+        message, even if just to say hi!
       </p>
 
       <a className="email-link" href={`mailto:${email}`}>
