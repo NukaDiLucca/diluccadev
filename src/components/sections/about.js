@@ -139,7 +139,7 @@ const About = () => {
             <p>
               My passion for game developement started in 2000 with the original StarCraft Campaign
               Editor. I took this passion to Drexel University where I sought a BA in Computer
-              Science with a Game Programming concentration a focus in Artificial Inteligence.
+              Science with a Game Programming concentration and a focus in Artificial Inteligence.
             </p>
 
             <p>
@@ -149,10 +149,15 @@ const About = () => {
               <a href="https://www.ecfmg.org/">a private non-profit</a>,{' '}
               <a href="https://www.skylessgames.com/">a start-up</a>, and{' '}
               <a href="https://store.steampowered.com/app/595470/Shadow_Circuit/?beta=0">
-                a student-led developement team
+                a student-led organization
               </a>
               . My main focus these days is to make great games with amazing people. Whether it be
               remote or in-person, I intend to show up putting everything on the table.
+            </p>
+
+            <p>
+              Whether it be remote or in-person, I intend to show up putting everything on the
+              table.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
