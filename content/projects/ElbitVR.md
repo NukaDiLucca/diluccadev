@@ -13,4 +13,4 @@ company: 'Flight School Studio'
 showInProjects: true
 ---
 
-A project that took 3 epic experiences, highlighting different cutting-edge products, into a single Oculus app. Pilot a helicopter in thick fog cutting around trees and mountainous terrain. Call the shots in the veil of night to take out insurgents at a distance. Operate a tank through a rocky valley to cutoff enemy reinforcements.
+A project that took 3 epic experiences, highlighting different cutting-edge products, into a single Oculus app. Pilot a helicopter in a thick fog, cutting around trees and mountainous terrain. Call the shots in the veil of night to take out insurgents at a distance. Operate a tank through a rocky valley to cutoff enemy reinforcements.
