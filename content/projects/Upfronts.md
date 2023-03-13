@@ -10,8 +10,8 @@ tech:
   - Unreal Engine 4
   - LUX MACHINA
   - Virtual Stage Production
-company: ''
+company: 'Flight School Studio'
 showInProjects: true
 ---
 
-A 6-week long Holywood film shoot in the RED Studios on a quartar-cylindrical virtual LED stage linked directly to Unreal Engine. This project was on a tight schedule, bringing celebraties from around the world on stage to present to stakeholders a "what comes next" presentation. My role was to take virtual sets and modify them live to comply with LUX's systems and the ever-changing asks from corporate executives. By far the most stressful job I've been on.
+A 6-week long Holywood film shoot in the RED Studios on a quartar-cylindrical virtual LED stage linked directly to Unreal Engine. This project was on a tight schedule, bringing celebrities from around the world on stage to present to stakeholders a "what comes next" presentation. My role was to take virtual sets and modify them live to comply with LUX's systems and the ever-changing asks from corporate executives. By far the most stressful job I've been on.

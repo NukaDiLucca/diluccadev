@@ -1,7 +1,7 @@
 ---
 date: '2019-6-5'
 title: 'Discovery Ocean'
-image: 'https://www.coroflot.com/individual/edit-project?id=2054420&n=y'
+image: 'https://www.coroflot.com/Nuka_DiLucca/Discovery-Ocean'
 github: ''
 external: 'https://www.discoveryeducation.com/'
 ios: ''

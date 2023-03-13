@@ -1,7 +1,7 @@
 ---
 date: '2019-2-2'
 title: 'Discovery Mars'
-image: 'https://www.coroflot.com/individual/edit-project?id=2054419&n=y'
+image: 'https://www.coroflot.com/Nuka_DiLucca/Discovery-Mars'
 github: ''
 external: 'https://www.discoveryeducation.com/'
 ios: ''

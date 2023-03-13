@@ -9,7 +9,7 @@ android: ''
 tech:
   - Unity
   - C#
-company: 'Dirty Lobster Interactive'
+company: 'Drexel University'
 showInProjects: true
 ---
 
