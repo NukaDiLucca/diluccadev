@@ -13,4 +13,4 @@ company: 'Drexel University'
 showInProjects: true
 ---
 
-A group of 3 programmers make a wave defense game. I implemented the shop, UI, and level mechanics.
+A group of 3 programmers make a wave defense game. My role was to implement the shop, UI, and level mechanics. My main takeaway from this project was that 3 programmers alone will have a difficult time making a traditional game. Although the game was very fun to play and develop, we often ran into the issue of "too many cooks".

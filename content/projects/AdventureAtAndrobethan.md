@@ -1,6 +1,6 @@
 ---
 date: '2016-3-4'
-title: 'Adventure at Adrobethan Castle'
+title: 'Adventure at Androbethan Castle'
 image: 'https://drive.google.com/file/d/0B2kfPaGqcHs4VVlXbVlQYmJJc1U/view?usp=share_link&resourcekey=0-MCr4M7z2qiFb2aQqUonOCQ'
 github: ''
 external: 'https://drive.google.com/drive/folders/0B2kfPaGqcHs4bHdYSUtTLS1aT2M?resourcekey=0-1NWu8coc25-H5lUaf09UAg&usp=sharing'
