@@ -1,7 +1,7 @@
 ---
 date: '2016-3-5'
 title: 'Grapplr'
-image: 'https://drive.google.com/file/d/0B2kfPaGqcHs4QVQ4d1VGbWdoTU0/view?usp=share_link&resourcekey=0-LWOXeocx3Y8XC6gjsMiO-A'
+image: ''
 github: ''
 external: 'https://drive.google.com/drive/folders/0B2kfPaGqcHs4TGZEVTRTdG9zOXM?resourcekey=0-9h7kg_RMlrT3NP-k-vNxDQ&usp=sharing'
 ios: ''

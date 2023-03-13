@@ -1,7 +1,7 @@
 ---
 date: '2016-3-2'
 title: 'Undertale Hero'
-image: 'https://drive.google.com/file/d/0B2kfPaGqcHs4ZVhrTV9MLXNaNk0/view?usp=share_link&resourcekey=0-o3aNwMYYtSq-vM6ojPTwaw'
+image: ''
 github: ''
 external: 'https://drive.google.com/drive/folders/0B2kfPaGqcHs4SjFiLTJEaWVIa2c?resourcekey=0-fC250WDoUmOCBrY18WjdMw&usp=sharing'
 ios: ''

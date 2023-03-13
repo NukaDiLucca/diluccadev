@@ -1,9 +1,9 @@
 ---
 date: '2019-6-5'
 title: 'Networked Factory Flow'
-image: 'https://www.coroflot.com/Nuka_DiLucca/Boeing'
+image: ''
 github: ''
-external: ''
+external: 'https://www.coroflot.com/Nuka_DiLucca/Boeing'
 ios: ''
 android: ''
 tech:

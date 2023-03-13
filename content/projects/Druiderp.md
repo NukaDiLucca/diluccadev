@@ -1,7 +1,7 @@
 ---
 date: '2016-3-3'
 title: 'Druiderp'
-image: 'https://drive.google.com/file/d/0B2kfPaGqcHs4d2w5WjJlRElqWjQ/view?usp=share_link&resourcekey=0-FjEq-nNW4s77WlaYkaciYw'
+image: ''
 github: ''
 external: 'https://drive.google.com/drive/folders/0B2kfPaGqcHs4aUtyQ004YmNfbHc?resourcekey=0-DPViKyfg9IkxddCRAcTOXQ&usp=sharing'
 ios: ''
