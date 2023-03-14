@@ -10,10 +10,6 @@ module.exports = {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/michaeldilucca',
     },
-    {
-      name: 'Twitch',
-      url: 'https://www.twitch.tv/nuka_dilucca',
-    },
   ],
 
   navLinks: [
