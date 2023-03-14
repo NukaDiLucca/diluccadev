@@ -32,6 +32,15 @@ Dark mode toggle without the flash of default theme. Important bits:
         document.documentElement.setAttribute('data-theme', localStorageTheme);
       }
     </script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-GD695R87DS"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag('js', new Date());
+      gtag('config', 'G-GD695R87DS');
+    </script>
   </head>
   <body>
     <div class="theme-toggle">
