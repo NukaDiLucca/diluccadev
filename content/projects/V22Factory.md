@@ -1,7 +1,7 @@
 ---
 date: '2018-5-15'
 title: 'V-22 Factory Flow'
-image: 'https://www.coroflot.com/individual/edit-project?id=2054418&n=y'
+image: 'https://www.coroflot.com/Nuka_DiLucca/Boeing'
 github: ''
 external: 'https://news.clearancejobs.com/2022/12/20/bell-boeing-joint-project-office-wins-18m-idiq-to-support-navys-v-22-aircraft-program/'
 ios: ''

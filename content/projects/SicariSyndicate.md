@@ -9,10 +9,10 @@ android: ''
 tech:
   - Unity
   - C#
-company: 'Dirty Lobster Interactive'
+company: 'Drexel University'
 showInProjects: true
 ---
 
 In our final competitive game development class at Drexel, through long hours of hard work we found ourselves fortunate enough to make it to the second round of development.
 Sicari Syndicate is a 2D cyberpunk stealth crawl where you attempt to assassinate the leader of the syndicate who wronged you.
-My role in Sicari Syndicate was to program the utility mechanics of Kaida Delarossa's detachable robotic hand and eye.
+My role in Sicari Syndicate was to program the utility mechanics of Kaida Delarossa's detachable robotic hand and eye as well as the technical documentation and diagrams.

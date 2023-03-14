@@ -1,9 +1,9 @@
 ---
 date: '2018-9-10'
 title: 'Aircraft Tech Manual'
-image: ''
+image: 'https://www.coroflot.com/Nuka_DiLucca/Boeing'
 github: ''
-external: 'https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20200094992'
+external: 'https://drive.google.com/file/d/1WDLd3eJOebqdkt4nyq-L_x01npX58gFB/view?usp=share_link'
 ios: ''
 android: ''
 tech:

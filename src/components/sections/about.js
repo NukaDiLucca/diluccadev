@@ -151,8 +151,7 @@ const About = () => {
               <a href="https://store.steampowered.com/app/595470/Shadow_Circuit/?beta=0">
                 a student-led organization
               </a>
-              . My main focus these days is to make great games with amazing people. Whether it be
-              remote or in-person, I intend to show up putting everything on the table.
+              . My main focus these days is to make great games with amazing people.
             </p>
 
             <p>
@@ -160,7 +159,7 @@ const About = () => {
               table.
             </p>
 
-            <p>Here are a few technologies I’ve been working with recently:</p>
+            <p>Here are a few technologies I’ve been working with recently: </p>
           </div>
 
           <ul className="skills-list">
