@@ -145,7 +145,7 @@ const About = () => {
             <p>
               Fast-forward to today, I’ve had the privilege of working at{' '}
               <a href="https://flightschoolstudio.com/">a cutting-edge entertainment company</a>,{' '}
-              <a href="https://www.boeing.com/">a huge corporation</a>,{' '}
+              <a href="https://www.boeing.com/">a large corporation</a>,{' '}
               <a href="https://www.ecfmg.org/">a private non-profit</a>,{' '}
               <a href="https://www.skylessgames.com/">a start-up</a>, and{' '}
               <a href="https://store.steampowered.com/app/595470/Shadow_Circuit/?beta=0">
