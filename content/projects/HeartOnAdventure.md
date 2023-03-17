@@ -13,4 +13,4 @@ company: 'Drexel University'
 showInProjects: true
 ---
 
-The fisrt game I ever developed on a team, as well as my 2nd year at Drexel. I programmed the game myself. Although it most certainly has a great number of bugs, I am still extremely proud of it. I remember fondly staying up in the Drexel Labs for days on end to make a very silly game work with a wonderful group of people.
+The first game I ever developed on a team, as well as my 2nd year at Drexel. I programmed the game myself. Although it most certainly has a great number of bugs, I am still extremely proud of it. I remember fondly staying up in the Drexel Labs for days on end to make a very silly game work with a wonderful group of people.
