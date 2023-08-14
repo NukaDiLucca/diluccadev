@@ -69,10 +69,13 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building and designing exceptional digital
-        experiences. Currently, I’m focused on making fun and interactive games at{' '}
-        <a href="https://flightschoolstudio.com/" target="_blank" rel="noreferrer">
-          Flight School Studio
+        I specialize in building and designing exceptional digital
+        experiences. Currently, I’m a Senior Gameplay Engineer focused on enemy AI implementation for {' '}
+        <a href="https://atomswitch.dev/" target="_blank" rel="noreferrer">
+          Atom Switch, Inc
+        </a>'s next game,
+        <a href="https://infeststation.com/" target="_blank" rel="noreferrer">
+          INFESTSTATION
         </a>
         .
       </p>
