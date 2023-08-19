@@ -59,7 +59,7 @@ const Contact = () => {
 
       <h2 className="title">Get In Touch</h2>
 
-      <p>I am currently seeking my next opportunity in the games industry!</p>
+      <p>I am currently working hard in the games industry!</p>
       <p>
         If you are interested in talking with me in any capacity please feel free to drop me a
         message, even if just to say hi!

@@ -69,11 +69,12 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I specialize in building and designing exceptional digital
-        experiences. Currently, I’m a Senior Gameplay Engineer focused on enemy AI implementation for {' '}
+        I specialize in building and designing exceptional digital experiences. Currently, I’m a
+        Senior Gameplay Engineer focused on enemy AI implementation for{' '}
         <a href="https://atomswitch.dev/" target="_blank" rel="noreferrer">
           Atom Switch, Inc
-        </a>'s next game,
+        </a>
+        's next game,&nbsp;
         <a href="https://infeststation.com/" target="_blank" rel="noreferrer">
           INFESTSTATION
         </a>
