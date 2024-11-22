@@ -70,15 +70,16 @@ const Hero = () => {
     <>
       <p>
         I specialize in building and designing exceptional digital experiences. Currently, I’m a
-        Senior Gameplay Engineer focused on enemy AI implementation for{' '}
+        Senior Gameplay Engineer at{' '}
         <a href="https://atomswitch.dev/" target="_blank" rel="noreferrer">
-          Atom Switch, Inc
+          Atom Switch, Inc.
         </a>
-        's next game,&nbsp;
+        &nbsp;We just shipped our most recent game,&nbsp;
         <a href="https://infeststation.com/" target="_blank" rel="noreferrer">
           INFESTSTATION
         </a>
-        .
+        , which has been in development for 2 years. I am now currently looking for more
+        opportunities in the video games industry.
       </p>
     </>
   );
