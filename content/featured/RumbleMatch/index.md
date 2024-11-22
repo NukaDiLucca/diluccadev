@@ -3,7 +3,7 @@ date: '3'
 title: 'Rumble Match'
 cover: './project.png'
 github: ''
-external: 'https://play.google.com/store/apps/details?src=AppAgg.com&id=com.FlightSchool.RumbleMatch'
+external: 'https://apps.apple.com/us/app/rumble-match/id1555335608'
 cta: ''
 tech:
   - Unity

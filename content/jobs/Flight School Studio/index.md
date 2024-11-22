@@ -1,9 +1,9 @@
 ---
 date: '2020-05-14'
 title: 'Interactive Developer'
-company: 'Flight School Studio'
+company: 'Flight School'
 location: 'Dallas, TX'
-range: 'April 2020 - Present'
+range: 'April 2020 - May 2023 (Remote)'
 url: 'https://flightschoolstudio.com/'
 ---
 

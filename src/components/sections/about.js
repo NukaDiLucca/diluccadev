@@ -143,15 +143,20 @@ const About = () => {
             </p>
 
             <p>
-              Fast-forward to today, I’ve had the privilege of working at{' '}
-              <a href="https://flightschoolstudio.com/">a cutting-edge entertainment company</a>,{' '}
-              <a href="https://www.boeing.com/">a large corporation</a>,{' '}
-              <a href="https://www.ecfmg.org/">a private non-profit</a>,{' '}
-              <a href="https://www.skylessgames.com/">a start-up</a>, and{' '}
+              Fast-forward to today, I’ve had the privilege of working at
+              <br />
+              <a href="https://atomswitch.dev/">a fast-paced indie game studio</a>,<br />
+              <a href="https://flightschoolstudio.com/">a cutting-edge entertainment company</a>,
+              <br />
+              <a href="https://www.boeing.com/">a large corporation</a>,<br />
+              <a href="https://www.ecfmg.org/">a private non-profit</a>,<br />
+              <a href="https://www.skylessgames.com/">a start-up</a>,<br />
+              and{' '}
               <a href="https://store.steampowered.com/app/595470/Shadow_Circuit/?beta=0">
                 a student-led organization
               </a>
-              . My main focus these days is to make great games with amazing people.
+              .<br />
+              My main focus these days is to make great games with amazing people.
             </p>
 
             <p>

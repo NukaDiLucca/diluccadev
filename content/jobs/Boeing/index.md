@@ -3,7 +3,7 @@ date: '2016-03-20'
 title: 'Senior Developer'
 company: 'Boeing'
 location: 'Philadelphia, PA'
-range: 'March 2016 - March 2020'
+range: 'March 2016 - March 2020 (Hybrid)'
 url: 'https://www.boeing.com/'
 ---
 

@@ -1,7 +1,7 @@
 ---
 date: '2014-03-05'
 title: 'Junior Game Developer'
-company: 'Skyless Games Studios'
+company: 'Skyless Games'
 location: 'Philadelphia, PA'
 range: 'March 2014 - April 2015'
 url: 'http://skylessgames.com/'
