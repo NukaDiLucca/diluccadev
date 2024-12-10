@@ -6,6 +6,8 @@ export { default as IconFolder } from './folder';
 export { default as IconFork } from './fork';
 export { default as Icon } from './icon';
 export { default as IconGitHub } from './github';
+export { default as IconBluesky } from './bluesky';
+export { default as IconYoutube } from './youtube';
 export { default as IconImage } from './image';
 export { default as IconInstagram } from './instagram';
 export { default as IconLinkedin } from './linkedin';

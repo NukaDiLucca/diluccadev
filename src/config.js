@@ -3,12 +3,20 @@ module.exports = {
 
   socialMedia: [
     {
-      name: 'Twitter',
-      url: 'https://twitter.com/nuka_dilucca',
-    },
-    {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/michaeldilucca',
+    },
+    {
+      name: 'GitHub',
+      url: 'https://github.com/DiLuccaDev?tab=repositories',
+    },
+    {
+      name: 'Bluesky',
+      url: 'https://bsky.app/profile/nukadilucca.bsky.social',
+    },
+    {
+      name: 'Youtube',
+      url: 'https://www.youtube.com/@DiLuccaDev',
     },
   ],
 
