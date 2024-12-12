@@ -13,4 +13,4 @@ company: 'Skyless Games Studios'
 showInProjects: true
 ---
 
-Follow the Money is a training game for law enforcement that teaches skills and techniques for investigating financial crimes and recovering assets. My role was to incorporate the character controller, pathfinding, handle animation blending, lighting, and program the "Pint-and-Click" aspect of the game.
+Follow the Money is a training game for law enforcement that teaches skills and techniques for investigating financial crimes and recovering assets. My role was to incorporate the character controller, pathfinding, handle animation blending, lighting, and program the "Point-and-Click" aspect of the game.
