@@ -1,6 +1,6 @@
 ---
 date: '0'
-title: 'INFESTSTAION'
+title: 'INFESTSTATION'
 cover: './project.png'
 github: ''
 external: 'https://store.steampowered.com/app/2601730/InfestStation/'
