@@ -3,7 +3,7 @@ date: '2019-2-2'
 title: 'Discovery Mars'
 image: 'https://www.coroflot.com/Nuka_DiLucca/Discovery-Mars'
 github: ''
-external: 'https://www.discoveryeducation.com/'
+external: 'https://www.coroflot.com/Nuka_DiLucca/Discovery-Mars'
 ios: ''
 android: ''
 tech:
